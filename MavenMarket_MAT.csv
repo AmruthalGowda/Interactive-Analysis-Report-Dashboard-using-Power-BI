@@ -1,0 +1,731 @@
+date,Sales,Product
+1/1/1997,3,Washington Berry Juice
+1/2/1997,2,Washington Mango Drink
+1/3/1997,25,Washington Strawberry Drink
+1/4/1997,15,Washington Cream Soda
+1/5/1997,13,Washington Diet Soda
+1/6/1997,13,Washington Cola
+1/7/1997,18,Washington Diet Cola
+1/8/1997,13,Washington Orange Juice
+1/9/1997,12,Washington Cranberry Juice
+1/10/1997,10,Washington Apple Juice
+1/11/1997,5,Washington Apple Drink
+1/12/1997,9,Jeffers Oatmeal
+1/13/1997,4,Jeffers Corn Puffs
+1/14/1997,27,Jeffers Wheat Puffs
+1/15/1997,4,Jeffers Grits
+1/16/1997,25,Blue Label Canned Beets
+1/17/1997,19,Blue Label Creamed Corn
+1/18/1997,15,Blue Label Canned String Beans
+1/19/1997,17,Blue Label Chicken Soup
+1/20/1997,21,Blue Label Canned Yams
+1/21/1997,2,Blue Label Vegetable Soup
+1/22/1997,20,Blue Label Canned Tomatos
+1/23/1997,32,Blue Label Noodle Soup
+1/24/1997,16,Blue Label Regular Ramen Soup
+1/25/1997,32,Blue Label Chicken Noodle Soup
+1/26/1997,32,Blue Label Turkey Noodle Soup
+1/27/1997,23,Blue Label Beef Soup
+1/28/1997,29,Blue Label Canned Peas
+1/29/1997,3,Blue Label Chicken Ramen Soup
+1/30/1997,4,Blue Label Canned Tuna in Water
+1/31/1997,32,Blue Label Canned Tuna in Oil
+2/1/1997,29,Blue Label Large Canned Shrimp
+2/2/1997,5,Blue Label Fancy Canned Anchovies
+2/3/1997,31,Blue Label Fancy Canned Clams
+2/4/1997,4,Blue Label Fancy Canned Oysters
+2/5/1997,15,Blue Label Fancy Canned Sardines
+2/6/1997,6,Blue Label Rice Soup
+2/7/1997,31,Green Ribbon Canned Mixed Fruit
+2/8/1997,19,Green Ribbon Canned Peaches
+2/9/1997,8,King Rosy Sunglasses
+2/10/1997,2,Queen Eyeglass Screwdriver
+2/11/1997,26,Queen City Map
+2/12/1997,10,Club Low Fat Cottage Cheese
+2/13/1997,23,Club Low Fat Sour Cream
+2/14/1997,24,Club Sour Cream
+2/15/1997,22,Club Jack Cheese
+2/16/1997,28,Club Muenster Cheese
+2/17/1997,1,Club String Cheese
+2/18/1997,11,Club Low Fat String Cheese
+2/19/1997,9,Club Havarti Cheese
+2/20/1997,32,Club Head Cheese
+2/21/1997,20,Club Cheese Spread
+2/22/1997,11,Club Sharp Cheddar Cheese
+2/23/1997,17,Club Mild Cheddar Cheese
+2/24/1997,21,Club Large Curd Cottage Cheese
+2/25/1997,13,Club 2% Milk
+2/26/1997,10,Club Buttermilk
+2/27/1997,18,Club Chocolate Milk
+2/28/1997,5,Club 1% Milk
+3/1/1997,15,Club Whole Milk
+3/2/1997,8,Club Strawberry Yogurt
+3/3/1997,12,Club Blueberry Yogurt
+3/4/1997,2,Red Spade Chicken Hot Dogs
+3/5/1997,32,Red Spade Pimento Loaf
+3/6/1997,33,Red Spade Beef Bologna
+3/7/1997,33,Red Spade Low Fat Bologna
+3/8/1997,16,Red Spade Turkey Hot Dogs
+3/9/1997,1,Red Spade Foot-Long Hot Dogs
+3/10/1997,27,Red Spade Low Fat Cole Slaw
+3/11/1997,28,Red Spade Cole Slaw
+3/12/1997,9,Red Spade Roasted Chicken
+3/13/1997,5,Red Spade Corned Beef
+3/14/1997,7,Red Spade Sliced Turkey
+3/15/1997,32,Red Spade Sliced Ham
+3/16/1997,20,Red Spade Potato Salad
+3/17/1997,26,Red Spade Sliced Chicken
+3/18/1997,20,Blue Medal Small Brown Eggs
+3/19/1997,12,Blue Medal Large Brown Eggs
+3/20/1997,27,Blue Medal Small Eggs
+3/21/1997,18,Blue Medal Large Eggs
+3/22/1997,25,Blue Medal Egg Substitute
+3/23/1997,25,Golden Low Fat Waffles
+3/24/1997,15,Golden Orange Popsicles
+3/25/1997,7,Golden Frozen Chicken Breast
+3/26/1997,28,Golden Frozen Pancakes
+3/27/1997,16,Golden Low Fat French Fries
+3/28/1997,5,Golden Frozen Sausage Pizza
+3/29/1997,2,Golden Blueberry Waffles
+3/30/1997,17,Golden Fajita French Fries
+3/31/1997,23,Golden Waffles
+4/1/1997,17,Golden Frozen Pepperoni Pizza
+4/2/1997,4,Golden Frozen Cheese Pizza
+4/3/1997,13,Golden Frozen Mushroom Pizza
+4/4/1997,29,Golden Apple Cinnamon Waffles
+4/5/1997,1,Golden Frozen Carrots
+4/6/1997,9,Golden Turkey TV Dinner
+4/7/1997,21,Golden Chicken TV Dinner
+4/8/1997,18,Golden Beef TV Dinner
+4/9/1997,29,Golden Pancake Mix
+4/10/1997,33,Golden Grape Popsicles
+4/11/1997,23,Golden Home Style French Fries
+4/12/1997,28,Golden Lime Popsicles
+4/13/1997,5,Golden Ice Cream
+4/14/1997,2,Golden Ice Cream Sandwich
+4/15/1997,10,Golden Frozen Cauliflower
+4/16/1997,5,Golden Frozen Broccoli
+4/17/1997,21,Golden Frozen Corn
+4/18/1997,27,Golden Frozen Peas
+4/19/1997,30,Golden Popsicles
+4/20/1997,4,Golden Frozen Chicken Thighs
+4/21/1997,3,Golden Frozen Chicken Wings
+4/22/1997,4,Golden Lemon Popsicles
+4/23/1997,16,Faux Products Silky Smooth Hair Conditioner
+4/24/1997,23,Faux Products Tartar Control Toothpaste
+4/25/1997,13,Faux Products Whitening Toothpast
+4/26/1997,1,Faux Products Toothpaste
+4/27/1997,2,Faux Products Deodorant
+4/28/1997,7,Faux Products Conditioning Shampoo
+4/29/1997,20,Faux Products Extra Moisture Shampoo
+4/30/1997,13,Faux Products Angled Toothbrush
+5/1/1997,21,Faux Products Apricot Shampoo
+5/2/1997,12,Faux Products Childrens Aspirin
+5/3/1997,12,Faux Products Buffered Aspirin
+5/4/1997,31,Faux Products 200 MG Ibuprofen
+5/5/1997,24,Faux Products 200 MG Acetominifen
+5/6/1997,19,Faux Products HCL Nasal Spray
+5/7/1997,23,Faux Products Dishwasher Detergent
+5/8/1997,13,Faux Products Multi-Symptom Cold Remedy
+5/9/1997,18,Faux Products Childrens Cold Remedy
+5/10/1997,15,Faux Products Laundry Detergent
+5/11/1997,26,Faux Products Mint Mouthwash
+5/12/1997,31,Denny 60 Watt Lightbulb
+5/13/1997,17,Denny Plastic Forks
+5/14/1997,22,Denny Plastic Spoons
+5/15/1997,14,Denny Plastic Knives
+5/16/1997,28,Denny C-Size Batteries
+5/17/1997,19,Denny 100 Watt Lightbulb
+5/18/1997,5,Denny AAA-Size Batteries
+5/19/1997,8,Denny Paper Plates
+5/20/1997,11,Denny Paper Cups
+5/21/1997,14,Denny 75 Watt Lightbulb
+5/22/1997,19,Denny Toilet Bowl Cleaner
+5/23/1997,22,Denny Counter Cleaner
+5/24/1997,25,Denny Glass Cleaner
+5/25/1997,3,Denny 25 Watt Lightbulb
+5/26/1997,2,Denny AA-Size Batteries
+5/27/1997,25,Denny D-Size Batteries
+5/28/1997,15,Denny Paper Towels
+5/29/1997,13,Denny Soft Napkins
+5/30/1997,13,Denny Scented Tissue
+5/31/1997,18,Denny Toilet Paper
+6/1/1997,13,Denny Tissues
+6/2/1997,12,Denny Scented Toilet Tissue
+6/3/1997,10,Denny Room Freshener
+6/4/1997,5,Denny Frying Pan
+6/5/1997,9,Denny Copper Cleaner
+6/6/1997,4,Denny Bees Wax Candles
+6/7/1997,27,Denny Silver Cleaner
+6/8/1997,4,Denny Copper Pot Scrubber
+6/9/1997,25,Denny Economy Toilet Brush
+6/10/1997,19,Denny Scissors
+6/11/1997,15,Denny Large Sponge
+6/12/1997,17,Denny Screw Driver
+6/13/1997,21,Ship Shape Extra Lean Hamburger
+6/14/1997,2,Ship Shape Seasoned Hamburger
+6/15/1997,20,Robust Monthly Sports Magazine
+6/16/1997,32,Robust Monthly Auto Magazine
+6/17/1997,16,Robust Monthly Computer Magazine
+6/18/1997,32,Robust Monthly Home Magazine
+6/19/1997,32,Robust Monthly Fashion Magazine
+6/20/1997,23,High Top Summer Squash
+6/21/1997,29,High Top Corn on the Cob
+6/22/1997,3,High Top Asparagus
+6/23/1997,4,High Top Sweet Peas
+6/24/1997,32,High Top New Potatos
+6/25/1997,29,High Top Beets
+6/26/1997,5,High Top Prepared Salad
+6/27/1997,31,High Top Onions
+6/28/1997,4,High Top Green Pepper
+6/29/1997,15,High Top Shitake Mushrooms
+6/30/1997,6,High Top Lettuce
+7/1/1997,31,High Top Elephant Garlic
+7/2/1997,19,High Top Red Pepper
+7/3/1997,8,High Top Garlic
+7/4/1997,2,High Top Potatos
+7/5/1997,26,High Top Cauliflower
+7/6/1997,10,High Top Tomatos
+7/7/1997,23,High Top Mushrooms
+7/8/1997,24,High Top Baby Onion
+7/9/1997,22,High Top Dried Mushrooms
+7/10/1997,28,High Top Fresh Lima Beans
+7/11/1997,1,High Top Squash
+7/12/1997,11,High Top Limes
+7/13/1997,9,High Top Firm Tofu
+7/14/1997,32,High Top Almonds
+7/15/1997,20,High Top Macintosh Apples
+7/16/1997,11,High Top Golden Delcious Apples
+7/17/1997,17,High Top Red Delcious Apples
+7/18/1997,21,High Top Lemons
+7/19/1997,13,High Top Fancy Plums
+7/20/1997,10,High Top Plums
+7/21/1997,18,High Top Peaches
+7/22/1997,5,High Top Broccoli
+7/23/1997,15,High Top Mandarin Oranges
+7/24/1997,8,High Top Mixed Nuts
+7/25/1997,12,High Top Canned Peanuts
+7/26/1997,2,High Top Sweet Onion
+7/27/1997,32,High Top Cantelope
+7/28/1997,33,High Top Honey Dew
+7/29/1997,33,High Top Fuji Apples
+7/30/1997,16,High Top Walnuts
+7/31/1997,1,High Top Oranges
+8/1/1997,27,High Top Tangerines
+8/2/1997,28,High Top Party Nuts
+8/3/1997,9,Tip Top Lox
+8/4/1997,5,Tip Top Scallops
+8/5/1997,7,Best Choice Low Fat Cookies
+8/6/1997,32,Best Choice BBQ Potato Chips
+8/7/1997,20,Best Choice Corn Chips
+8/8/1997,26,Best Choice Low Fat BBQ Chips
+8/9/1997,20,Best Choice Sugar Cookies
+8/10/1997,12,Best Choice Chocolate Chip Cookies
+8/11/1997,27,Best Choice Fudge Cookies
+8/12/1997,18,Best Choice Fudge Brownies
+8/13/1997,25,Best Choice Potato Chips
+8/14/1997,25,Best Choice Lemon Cookies
+8/15/1997,15,Best Choice Graham Crackers
+8/16/1997,7,Best Choice Cheese Crackers
+8/17/1997,28,Best Choice Buttered Popcorn
+8/18/1997,16,Best Choice No Salt Popcorn
+8/19/1997,5,Best Choice Low Fat Popcorn
+8/20/1997,2,Best Choice Salsa Dip
+8/21/1997,17,Best Choice Avocado Dip
+8/22/1997,23,Best Choice Salted Pretzels
+8/23/1997,17,Best Choice Cheese Dip
+8/24/1997,4,Best Choice Fondue Mix
+8/25/1997,13,Best Choice Mini Donuts
+8/26/1997,29,Best Choice Beef Jerky
+8/27/1997,1,Best Choice Chocolate Donuts
+8/28/1997,9,Best Choice Low Fat Chips
+8/29/1997,21,Best Choice Sesame Crackers
+8/30/1997,18,Best Choice Frosted Cookies
+8/31/1997,29,Best Choice Dried Apples
+9/1/1997,33,Best Choice Apple Fruit Roll
+9/2/1997,23,Best Choice Strawberry Fruit Roll
+9/3/1997,28,Best Choice Raspberry Fruit Roll
+9/4/1997,5,Best Choice Grape Fruit Roll
+9/5/1997,2,Best Choice Dried Dates
+9/6/1997,10,Best Choice Raisins
+9/7/1997,5,Best Choice Golden Raisins
+9/8/1997,21,Best Choice Dried Apricots
+9/9/1997,27,Best Choice Frosted Donuts
+9/10/1997,30,Choice Tasty Candy Bar
+9/11/1997,4,Choice Mint Chocolate Bar
+9/12/1997,3,Choice Malted Milk Balls
+9/13/1997,4,Choice Semi-Sweet Chocolate Bar
+9/14/1997,16,Choice Bubble Gum
+9/15/1997,23,Choice Spicy Mints
+9/16/1997,13,Choice Mints
+9/17/1997,1,Choice White Chocolate Bar
+9/18/1997,2,Medalist Ravioli
+9/19/1997,7,Medalist Manicotti
+9/20/1997,20,Medalist Spaghetti
+9/21/1997,13,Medalist Thai Rice
+9/22/1997,21,Medalist Rice Medly
+9/23/1997,12,Good Imported Beer
+9/24/1997,12,Good Light Wine
+9/25/1997,31,Good Chardonnay Wine
+9/26/1997,24,Good Chablis Wine
+9/27/1997,19,Good Merlot Wine
+9/28/1997,23,Good Chardonnay
+9/29/1997,13,Good White Zinfandel Wine
+9/30/1997,18,Good Light Beer
+10/1/1997,15,Great Pumpernickel Bread
+10/2/1997,26,Great White Bread
+10/3/1997,31,Great Rye Bread
+10/4/1997,17,Great English Muffins
+10/5/1997,22,Great Cranberry Muffins
+10/6/1997,14,Great Muffins
+10/7/1997,28,Great Bagels
+10/8/1997,19,Great Blueberry Muffins
+10/9/1997,5,Great Wheat Bread
+10/10/1997,8,Super Sesame Oil
+10/11/1997,11,Super Chunky Peanut Butter
+10/12/1997,14,Super Hot Chocolate
+10/13/1997,19,Super Brown Sugar
+10/14/1997,22,Super White Sugar
+10/15/1997,25,Super French Roast Coffee
+10/16/1997,3,Super Decaf Coffee
+10/17/1997,2,Super Regular Coffee
+10/18/1997,25,Super Vegetable Oil
+10/19/1997,15,Super Corn Oil
+10/20/1997,13,Super Tomato Sauce
+10/21/1997,13,Super Canola Oil
+10/22/1997,18,Super Grape Preserves
+10/23/1997,13,Super Columbian Coffee
+10/24/1997,12,Super Strawberry Jelly
+10/25/1997,10,Super Pepper
+10/26/1997,5,Super Low Fat Apple Butter
+10/27/1997,9,Super Salt
+10/28/1997,4,Super Apple Butter
+10/29/1997,27,Super Oregano
+10/30/1997,4,Super Apple Jelly
+10/31/1997,25,Super Grape Jam
+11/1/1997,19,Super Apple Jam
+11/2/1997,15,Super Strawberry Jam
+11/3/1997,17,Super Creamy Peanut Butter
+11/4/1997,21,Super Strawberry Preserves
+11/5/1997,2,Super Extra Chunky Peanut Butter
+11/6/1997,20,Super Apple Preserves
+11/7/1997,32,Super Grape Jelly
+11/8/1997,16,Excellent Berry Juice
+11/9/1997,32,Excellent Mango Drink
+11/10/1997,32,Excellent Strawberry Drink
+11/11/1997,23,Excellent Cream Soda
+11/12/1997,29,Excellent Diet Soda
+11/13/1997,3,Excellent Cola
+11/14/1997,4,Excellent Diet Cola
+11/15/1997,32,Excellent Orange Juice
+11/16/1997,29,Excellent Cranberry Juice
+11/17/1997,5,Excellent Apple Juice
+11/18/1997,31,Excellent Apple Drink
+11/19/1997,4,Best Oatmeal
+11/20/1997,15,Best Corn Puffs
+11/21/1997,6,Best Wheat Puffs
+11/22/1997,31,Best Grits
+11/23/1997,19,Better Canned Beets
+11/24/1997,8,Better Creamed Corn
+11/25/1997,2,Better Canned String Beans
+11/26/1997,26,Better Chicken Soup
+11/27/1997,10,Better Canned Yams
+11/28/1997,23,Better Vegetable Soup
+11/29/1997,24,Better Canned Tomatos
+11/30/1997,22,Better Noodle Soup
+12/1/1997,28,Better Regular Ramen Soup
+12/2/1997,1,Better Chicken Noodle Soup
+12/3/1997,11,Better Turkey Noodle Soup
+12/4/1997,9,Better Beef Soup
+12/5/1997,32,Better Canned Peas
+12/6/1997,20,Better Chicken Ramen Soup
+12/7/1997,11,Better Canned Tuna in Water
+12/8/1997,17,Better Canned Tuna in Oil
+12/9/1997,21,Better Large Canned Shrimp
+12/10/1997,13,Better Fancy Canned Anchovies
+12/11/1997,10,Better Fancy Canned Clams
+12/12/1997,18,Better Fancy Canned Oysters
+12/13/1997,5,Better Fancy Canned Sardines
+12/14/1997,15,Better Rice Soup
+12/15/1997,8,Swell Canned Mixed Fruit
+12/16/1997,12,Swell Canned Peaches
+12/17/1997,2,ADJ Rosy Sunglasses
+12/18/1997,32,Black Tie Eyeglass Screwdriver
+12/19/1997,33,Black Tie City Map
+12/20/1997,33,Carlson Low Fat Cottage Cheese
+12/21/1997,16,Carlson Low Fat Sour Cream
+12/22/1997,1,Carlson Sour Cream
+12/23/1997,27,Carlson Jack Cheese
+12/24/1997,28,Carlson Muenster Cheese
+12/25/1997,9,Carlson String Cheese
+12/26/1997,5,Carlson Low Fat String Cheese
+12/27/1997,7,Carlson Havarti Cheese
+12/28/1997,32,Carlson Head Cheese
+12/29/1997,20,Carlson Cheese Spread
+12/30/1997,26,Carlson Sharp Cheddar Cheese
+12/31/1997,20,Carlson Mild Cheddar Cheese
+1/1/1998,12,Carlson Large Curd Cottage Cheese
+1/2/1998,27,Carlson 2% Milk
+1/3/1998,18,Carlson Buttermilk
+1/4/1998,25,Carlson Chocolate Milk
+1/5/1998,25,Carlson 1% Milk
+1/6/1998,15,Carlson Whole Milk
+1/7/1998,7,Carlson Strawberry Yogurt
+1/8/1998,28,Carlson Blueberry Yogurt
+1/9/1998,16,Moms Chicken Hot Dogs
+1/10/1998,5,Moms Pimento Loaf
+1/11/1998,2,Moms Beef Bologna
+1/12/1998,17,Moms Low Fat Bologna
+1/13/1998,23,Moms Turkey Hot Dogs
+1/14/1998,17,Moms Foot-Long Hot Dogs
+1/15/1998,4,Moms Low Fat Cole Slaw
+1/16/1998,13,Moms Cole Slaw
+1/17/1998,29,Moms Roasted Chicken
+1/18/1998,1,Moms Corned Beef
+1/19/1998,9,Moms Sliced Turkey
+1/20/1998,21,Moms Sliced Ham
+1/21/1998,18,Moms Potato Salad
+1/22/1998,29,Moms Sliced Chicken
+1/23/1998,33,Urban Small Brown Eggs
+1/24/1998,23,Urban Large Brown Eggs
+1/25/1998,28,Urban Small Eggs
+1/26/1998,5,Urban Large Eggs
+1/27/1998,2,Urban Egg Substitute
+1/28/1998,10,Big Time Low Fat Waffles
+1/29/1998,5,Big Time Orange Popsicles
+1/30/1998,21,Big Time Frozen Chicken Breast
+1/31/1998,27,Big Time Frozen Pancakes
+2/1/1998,30,Big Time Low Fat French Fries
+2/2/1998,4,Big Time Frozen Sausage Pizza
+2/3/1998,3,Big Time Blueberry Waffles
+2/4/1998,4,Big Time Fajita French Fries
+2/5/1998,16,Big Time Waffles
+2/6/1998,23,Big Time Frozen Pepperoni Pizza
+2/7/1998,13,Big Time Frozen Cheese Pizza
+2/8/1998,1,Big Time Frozen Mushroom Pizza
+2/9/1998,2,Big Time Apple Cinnamon Waffles
+2/10/1998,7,Big Time Frozen Carrots
+2/11/1998,20,Big Time Turkey TV Dinner
+2/12/1998,13,Big Time Chicken TV Dinner
+2/13/1998,21,Big Time Beef TV Dinner
+2/14/1998,12,Big Time Pancake Mix
+2/15/1998,12,Big Time Grape Popsicles
+2/16/1998,31,Big Time Home Style French Fries
+2/17/1998,24,Big Time Lime Popsicles
+2/18/1998,19,Big Time Ice Cream
+2/19/1998,23,Big Time Ice Cream Sandwich
+2/20/1998,13,Big Time Frozen Cauliflower
+2/21/1998,18,Big Time Frozen Broccoli
+2/22/1998,15,Big Time Frozen Corn
+2/23/1998,26,Big Time Frozen Peas
+2/24/1998,31,Big Time Popsicles
+2/25/1998,17,Big Time Frozen Chicken Thighs
+2/26/1998,22,Big Time Frozen Chicken Wings
+2/27/1998,14,Big Time Lemon Popsicles
+2/28/1998,28,Steady Silky Smooth Hair Conditioner
+3/1/1998,19,Steady Tartar Control Toothpaste
+3/2/1998,5,Steady Whitening Toothpast
+3/3/1998,8,Steady Toothpaste
+3/4/1998,11,Steady Deodorant
+3/5/1998,14,Steady Conditioning Shampoo
+3/6/1998,19,Steady Extra Moisture Shampoo
+3/7/1998,22,Steady Angled Toothbrush
+3/8/1998,25,Steady Apricot Shampoo
+3/9/1998,3,Steady Childrens Aspirin
+3/10/1998,2,Steady Buffered Aspirin
+3/11/1998,25,Steady 200 MG Ibuprofen
+3/12/1998,15,Steady 200 MG Acetominifen
+3/13/1998,13,Steady HCL Nasal Spray
+3/14/1998,13,Steady Dishwasher Detergent
+3/15/1998,18,Steady Multi-Symptom Cold Remedy
+3/16/1998,13,Steady Childrens Cold Remedy
+3/17/1998,12,Steady Laundry Detergent
+3/18/1998,10,Steady Mint Mouthwash
+3/19/1998,5,Red Wing 60 Watt Lightbulb
+3/20/1998,9,Red Wing Plastic Forks
+3/21/1998,4,Red Wing Plastic Spoons
+3/22/1998,27,Red Wing Plastic Knives
+3/23/1998,4,Red Wing C-Size Batteries
+3/24/1998,25,Red Wing 100 Watt Lightbulb
+3/25/1998,19,Red Wing AAA-Size Batteries
+3/26/1998,15,Red Wing Paper Plates
+3/27/1998,17,Red Wing Paper Cups
+3/28/1998,21,Red Wing 75 Watt Lightbulb
+3/29/1998,2,Red Wing Toilet Bowl Cleaner
+3/30/1998,20,Red Wing Counter Cleaner
+3/31/1998,32,Red Wing Glass Cleaner
+4/1/1998,16,Red Wing 25 Watt Lightbulb
+4/2/1998,32,Red Wing AA-Size Batteries
+4/3/1998,32,Red Wing D-Size Batteries
+4/4/1998,23,Red Wing Paper Towels
+4/5/1998,29,Red Wing Soft Napkins
+4/6/1998,3,Red Wing Scented Tissue
+4/7/1998,4,Red Wing Toilet Paper
+4/8/1998,32,Red Wing Tissues
+4/9/1998,29,Red Wing Scented Toilet Tissue
+4/10/1998,5,Red Wing Room Freshener
+4/11/1998,31,Red Wing Frying Pan
+4/12/1998,4,Red Wing Copper Cleaner
+4/13/1998,15,Red Wing Bees Wax Candles
+4/14/1998,6,Red Wing Silver Cleaner
+4/15/1998,31,Red Wing Copper Pot Scrubber
+4/16/1998,19,Red Wing Economy Toilet Brush
+4/17/1998,8,Red Wing Scissors
+4/18/1998,2,Red Wing Large Sponge
+4/19/1998,26,Red Wing Screw Driver
+4/20/1998,10,Quick Extra Lean Hamburger
+4/21/1998,23,Quick Seasoned Hamburger
+4/22/1998,24,Dollar Monthly Sports Magazine
+4/23/1998,22,Dollar Monthly Auto Magazine
+4/24/1998,28,Dollar Monthly Computer Magazine
+4/25/1998,1,Dollar Monthly Home Magazine
+4/26/1998,11,Dollar Monthly Fashion Magazine
+4/27/1998,9,Tell Tale Summer Squash
+4/28/1998,32,Tell Tale Corn on the Cob
+4/29/1998,20,Tell Tale Asparagus
+4/30/1998,11,Tell Tale Sweet Peas
+5/1/1998,17,Tell Tale New Potatos
+5/2/1998,21,Tell Tale Beets
+5/3/1998,13,Tell Tale Prepared Salad
+5/4/1998,10,Tell Tale Onions
+5/5/1998,18,Tell Tale Green Pepper
+5/6/1998,5,Tell Tale Shitake Mushrooms
+5/7/1998,15,Tell Tale Lettuce
+5/8/1998,8,Tell Tale Elephant Garlic
+5/9/1998,12,Tell Tale Red Pepper
+5/10/1998,2,Tell Tale Garlic
+5/11/1998,32,Tell Tale Potatos
+5/12/1998,33,Tell Tale Cauliflower
+5/13/1998,33,Tell Tale Tomatos
+5/14/1998,16,Tell Tale Mushrooms
+5/15/1998,1,Tell Tale Baby Onion
+5/16/1998,27,Tell Tale Dried Mushrooms
+5/17/1998,28,Tell Tale Fresh Lima Beans
+5/18/1998,9,Tell Tale Squash
+5/19/1998,5,Tell Tale Limes
+5/20/1998,7,Tell Tale Firm Tofu
+5/21/1998,32,Tell Tale Almonds
+5/22/1998,20,Tell Tale Macintosh Apples
+5/23/1998,26,Tell Tale Golden Delcious Apples
+5/24/1998,20,Tell Tale Red Delcious Apples
+5/25/1998,12,Tell Tale Lemons
+5/26/1998,27,Tell Tale Fancy Plums
+5/27/1998,18,Tell Tale Plums
+5/28/1998,25,Tell Tale Peaches
+5/29/1998,25,Tell Tale Broccoli
+5/30/1998,15,Tell Tale Mandarin Oranges
+5/31/1998,7,Tell Tale Mixed Nuts
+6/1/1998,28,Tell Tale Canned Peanuts
+6/2/1998,16,Tell Tale Sweet Onion
+6/3/1998,5,Tell Tale Cantelope
+6/4/1998,2,Tell Tale Honey Dew
+6/5/1998,17,Tell Tale Fuji Apples
+6/6/1998,23,Tell Tale Walnuts
+6/7/1998,17,Tell Tale Oranges
+6/8/1998,4,Tell Tale Tangerines
+6/9/1998,13,Tell Tale Party Nuts
+6/10/1998,29,Kiwi Lox
+6/11/1998,1,Kiwi Scallops
+6/12/1998,9,Fast Low Fat Cookies
+6/13/1998,21,Fast BBQ Potato Chips
+6/14/1998,18,Fast Corn Chips
+6/15/1998,29,Fast Low Fat BBQ Chips
+6/16/1998,33,Fast Sugar Cookies
+6/17/1998,23,Fast Chocolate Chip Cookies
+6/18/1998,28,Fast Fudge Cookies
+6/19/1998,5,Fast Fudge Brownies
+6/20/1998,2,Fast Potato Chips
+6/21/1998,10,Fast Lemon Cookies
+6/22/1998,5,Fast Graham Crackers
+6/23/1998,21,Fast Cheese Crackers
+6/24/1998,27,Fast Buttered Popcorn
+6/25/1998,30,Fast No Salt Popcorn
+6/26/1998,4,Fast Low Fat Popcorn
+6/27/1998,3,Fast Salsa Dip
+6/28/1998,4,Fast Avocado Dip
+6/29/1998,16,Fast Salted Pretzels
+6/30/1998,23,Fast Cheese Dip
+7/1/1998,13,Fast Fondue Mix
+7/2/1998,1,Fast Mini Donuts
+7/3/1998,2,Fast Beef Jerky
+7/4/1998,7,Fast Chocolate Donuts
+7/5/1998,20,Fast Low Fat Chips
+7/6/1998,13,Fast Sesame Crackers
+7/7/1998,21,Fast Frosted Cookies
+7/8/1998,12,Fast Dried Apples
+7/9/1998,12,Fast Apple Fruit Roll
+7/10/1998,31,Fast Strawberry Fruit Roll
+7/11/1998,24,Fast Raspberry Fruit Roll
+7/12/1998,19,Fast Grape Fruit Roll
+7/13/1998,23,Fast Dried Dates
+7/14/1998,13,Fast Raisins
+7/15/1998,18,Fast Golden Raisins
+7/16/1998,15,Fast Dried Apricots
+7/17/1998,26,Fast Frosted Donuts
+7/18/1998,31,Atomic Tasty Candy Bar
+7/19/1998,17,Atomic Mint Chocolate Bar
+7/20/1998,22,Atomic Malted Milk Balls
+7/21/1998,14,Atomic Semi-Sweet Chocolate Bar
+7/22/1998,28,Atomic Bubble Gum
+7/23/1998,19,Atomic Spicy Mints
+7/24/1998,5,Atomic Mints
+7/25/1998,8,Atomic White Chocolate Bar
+7/26/1998,11,Shady Lake Ravioli
+7/27/1998,14,Shady Lake Manicotti
+7/28/1998,19,Shady Lake Spaghetti
+7/29/1998,22,Shady Lake Thai Rice
+7/30/1998,25,Shady Lake Rice Medly
+7/31/1998,3,Walrus Imported Beer
+8/1/1998,2,Walrus Light Wine
+8/2/1998,25,Walrus Chardonnay Wine
+8/3/1998,15,Walrus Chablis Wine
+8/4/1998,13,Walrus Merlot Wine
+8/5/1998,13,Walrus Chardonnay
+8/6/1998,18,Walrus White Zinfandel Wine
+8/7/1998,13,Walrus Light Beer
+8/8/1998,12,Colony Pumpernickel Bread
+8/9/1998,10,Colony White Bread
+8/10/1998,5,Colony Rye Bread
+8/11/1998,9,Colony English Muffins
+8/12/1998,4,Colony Cranberry Muffins
+8/13/1998,27,Colony Muffins
+8/14/1998,4,Colony Bagels
+8/15/1998,25,Colony Blueberry Muffins
+8/16/1998,19,Colony Wheat Bread
+8/17/1998,15,Landslide Sesame Oil
+8/18/1998,17,Landslide Chunky Peanut Butter
+8/19/1998,21,Landslide Hot Chocolate
+8/20/1998,2,Landslide Brown Sugar
+8/21/1998,20,Landslide White Sugar
+8/22/1998,32,Landslide French Roast Coffee
+8/23/1998,16,Landslide Decaf Coffee
+8/24/1998,32,Landslide Regular Coffee
+8/25/1998,32,Landslide Vegetable Oil
+8/26/1998,23,Landslide Corn Oil
+8/27/1998,29,Landslide Tomato Sauce
+8/28/1998,3,Landslide Canola Oil
+8/29/1998,4,Landslide Grape Preserves
+8/30/1998,32,Landslide Columbian Coffee
+8/31/1998,29,Landslide Strawberry Jelly
+9/1/1998,5,Landslide Pepper
+9/2/1998,31,Landslide Low Fat Apple Butter
+9/3/1998,4,Landslide Salt
+9/4/1998,15,Landslide Apple Butter
+9/5/1998,6,Landslide Oregano
+9/6/1998,31,Landslide Apple Jelly
+9/7/1998,19,Landslide Grape Jam
+9/8/1998,8,Landslide Apple Jam
+9/9/1998,2,Landslide Strawberry Jam
+9/10/1998,26,Landslide Creamy Peanut Butter
+9/11/1998,10,Landslide Strawberry Preserves
+9/12/1998,23,Landslide Extra Chunky Peanut Butter
+9/13/1998,24,Landslide Apple Preserves
+9/14/1998,22,Landslide Grape Jelly
+9/15/1998,28,Token Berry Juice
+9/16/1998,1,Token Mango Drink
+9/17/1998,11,Token Strawberry Drink
+9/18/1998,9,Token Cream Soda
+9/19/1998,32,Token Diet Soda
+9/20/1998,20,Token Cola
+9/21/1998,11,Token Diet Cola
+9/22/1998,17,Token Orange Juice
+9/23/1998,21,Token Cranberry Juice
+9/24/1998,13,Token Apple Juice
+9/25/1998,10,Token Apple Drink
+9/26/1998,18,Radius Oatmeal
+9/27/1998,5,Radius Corn Puffs
+9/28/1998,15,Radius Wheat Puffs
+9/29/1998,8,Radius Grits
+9/30/1998,12,Bravo Canned Beets
+10/1/1998,2,Bravo Creamed Corn
+10/2/1998,32,Bravo Canned String Beans
+10/3/1998,33,Bravo Chicken Soup
+10/4/1998,33,Bravo Canned Yams
+10/5/1998,16,Bravo Vegetable Soup
+10/6/1998,1,Bravo Canned Tomatos
+10/7/1998,27,Bravo Noodle Soup
+10/8/1998,28,Bravo Regular Ramen Soup
+10/9/1998,9,Bravo Chicken Noodle Soup
+10/10/1998,5,Bravo Turkey Noodle Soup
+10/11/1998,7,Bravo Beef Soup
+10/12/1998,32,Bravo Canned Peas
+10/13/1998,20,Bravo Chicken Ramen Soup
+10/14/1998,26,Bravo Canned Tuna in Water
+10/15/1998,20,Bravo Canned Tuna in Oil
+10/16/1998,12,Bravo Large Canned Shrimp
+10/17/1998,27,Bravo Fancy Canned Anchovies
+10/18/1998,18,Bravo Fancy Canned Clams
+10/19/1998,25,Bravo Fancy Canned Oysters
+10/20/1998,25,Bravo Fancy Canned Sardines
+10/21/1998,15,Bravo Rice Soup
+10/22/1998,7,Applause Canned Mixed Fruit
+10/23/1998,28,Applause Canned Peaches
+10/24/1998,16,Prelude Rosy Sunglasses
+10/25/1998,5,Akron Eyeglass Screwdriver
+10/26/1998,2,Akron City Map
+10/27/1998,17,Gorilla Low Fat Cottage Cheese
+10/28/1998,23,Gorilla Low Fat Sour Cream
+10/29/1998,17,Gorilla Sour Cream
+10/30/1998,4,Gorilla Jack Cheese
+10/31/1998,13,Gorilla Muenster Cheese
+11/1/1998,29,Gorilla String Cheese
+11/2/1998,1,Gorilla Low Fat String Cheese
+11/3/1998,9,Gorilla Havarti Cheese
+11/4/1998,21,Gorilla Head Cheese
+11/5/1998,18,Gorilla Cheese Spread
+11/6/1998,29,Gorilla Sharp Cheddar Cheese
+11/7/1998,33,Gorilla Mild Cheddar Cheese
+11/8/1998,23,Gorilla Large Curd Cottage Cheese
+11/9/1998,28,Gorilla 2% Milk
+11/10/1998,5,Gorilla Buttermilk
+11/11/1998,2,Gorilla Chocolate Milk
+11/12/1998,10,Gorilla 1% Milk
+11/13/1998,5,Gorilla Whole Milk
+11/14/1998,21,Gorilla Strawberry Yogurt
+11/15/1998,27,Gorilla Blueberry Yogurt
+11/16/1998,30,Cutting Edge Chicken Hot Dogs
+11/17/1998,4,Cutting Edge Pimento Loaf
+11/18/1998,3,Cutting Edge Beef Bologna
+11/19/1998,4,Cutting Edge Low Fat Bologna
+11/20/1998,16,Cutting Edge Turkey Hot Dogs
+11/21/1998,23,Cutting Edge Foot-Long Hot Dogs
+11/22/1998,13,Cutting Edge Low Fat Cole Slaw
+11/23/1998,1,Cutting Edge Cole Slaw
+11/24/1998,2,Cutting Edge Roasted Chicken
+11/25/1998,7,Cutting Edge Corned Beef
+11/26/1998,20,Cutting Edge Sliced Turkey
+11/27/1998,13,Cutting Edge Sliced Ham
+11/28/1998,21,Cutting Edge Potato Salad
+11/29/1998,12,Cutting Edge Sliced Chicken
+11/30/1998,12,Jumbo Small Brown Eggs
+12/1/1998,31,Jumbo Large Brown Eggs
+12/2/1998,24,Jumbo Small Eggs
+12/3/1998,19,Jumbo Large Eggs
+12/4/1998,23,Jumbo Egg Substitute
+12/5/1998,13,Imagine Low Fat Waffles
+12/6/1998,18,Imagine Orange Popsicles
+12/7/1998,15,Imagine Frozen Chicken Breast
+12/8/1998,26,Imagine Frozen Pancakes
+12/9/1998,31,Imagine Low Fat French Fries
+12/10/1998,17,Imagine Frozen Sausage Pizza
+12/11/1998,22,Imagine Blueberry Waffles
+12/12/1998,14,Imagine Fajita French Fries
+12/13/1998,28,Imagine Waffles
+12/14/1998,19,Imagine Frozen Pepperoni Pizza
+12/15/1998,5,Imagine Frozen Cheese Pizza
+12/16/1998,8,Imagine Frozen Mushroom Pizza
+12/17/1998,11,Imagine Apple Cinnamon Waffles
+12/18/1998,14,Imagine Frozen Carrots
+12/19/1998,19,Imagine Turkey TV Dinner
+12/20/1998,22,Imagine Chicken TV Dinner
+12/21/1998,25,Imagine Beef TV Dinner
+12/22/1998,26,Imagine Pancake Mix
+12/23/1998,31,Imagine Grape Popsicles
+12/24/1998,17,Imagine Home Style French Fries
+12/25/1998,22,Imagine Lime Popsicles
+12/26/1998,14,Imagine Ice Cream
+12/27/1998,28,Imagine Ice Cream Sandwich
+12/28/1998,19,Imagine Frozen Cauliflower
+12/29/1998,5,Imagine Frozen Broccoli
+12/30/1998,8,Imagine Frozen Corn
+12/31/1998,11,Imagine Frozen Peas
